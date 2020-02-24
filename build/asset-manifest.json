@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.07039201.chunk.css",
+    "main.js": "/test/static/js/main.aeaf8c0d.chunk.js",
+    "main.js.map": "/test/static/js/main.aeaf8c0d.chunk.js.map",
+    "runtime-main.js": "/test/static/js/runtime-main.6b649e9c.js",
+    "runtime-main.js.map": "/test/static/js/runtime-main.6b649e9c.js.map",
+    "static/js/2.8900bb6a.chunk.js": "/test/static/js/2.8900bb6a.chunk.js",
+    "static/js/2.8900bb6a.chunk.js.map": "/test/static/js/2.8900bb6a.chunk.js.map",
+    "index.html": "/test/index.html",
+    "precache-manifest.0842382e838e592590fe105b04b28cc3.js": "/test/precache-manifest.0842382e838e592590fe105b04b28cc3.js",
+    "service-worker.js": "/test/service-worker.js",
+    "static/css/main.07039201.chunk.css.map": "/test/static/css/main.07039201.chunk.css.map",
+    "static/js/2.8900bb6a.chunk.js.LICENSE.txt": "/test/static/js/2.8900bb6a.chunk.js.LICENSE.txt",
+    "static/media/login-indesign.png": "/test/static/media/login-indesign.2cc2525d.png",
+    "static/media/profile.png": "/test/static/media/profile.c55819c4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b649e9c.js",
+    "static/js/2.8900bb6a.chunk.js",
+    "static/css/main.07039201.chunk.css",
+    "static/js/main.aeaf8c0d.chunk.js"
+  ]
+}
